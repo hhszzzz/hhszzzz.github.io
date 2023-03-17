@@ -7,8 +7,8 @@
 <h1 id="编译"><a href="#编译" class="headerlink" title="编译"></a>编译</h1><ul>
 <li><p>安装编译环境</p>
 <p>  在调试之前，需要先将文件进行编译，下面先介绍GNU编译器集合中的部分编译器，由于本人用的是Ubuntu22.04，所以可以使用下面指令来对GNU编译器进行安装。</p>
-  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo apt-get update</span><br><span class="line">sudo apt-get install build-essential</span><br></pre></td></tr></table></figure>
-
+  <span id="more"></span>
+  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">   sudo apt-get update</span><br><span class="line">sudo apt-get install build-essential</span><br></pre></td></tr></table></figure>
 <p>  一般来说使用<code>g++</code>进行编译，如果是编译C程序，则使用<code>gcc</code>即可。</p>
 </li>
 <li><p>编译源代码</p>
