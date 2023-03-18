@@ -691,6 +691,9 @@
 <p>$$c(u)&#x3D;\begin{cases} \sqrt\frac{1}{N}，u&#x3D;0\ \sqrt\frac{2}{N}， u\neq0\end{cases}  $$</p>
 <h2 id="6-数学符号补充"><a href="#6-数学符号补充" class="headerlink" title="6. 数学符号补充"></a>6. 数学符号补充</h2><p><img src="https://img-blog.csdnimg.cn/4555e3542d3942ddba1783159165cf36.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0RhcmxpbmdxaWFuZw==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/b9e8c03da94d4aadb354d6de022e42c9.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0RhcmxpbmdxaWFuZw==,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
 ]]></content>
+      <categories>
+        <category>utility</category>
+      </categories>
       <tags>
         <tag>markdown</tag>
       </tags>
@@ -951,6 +954,9 @@
 <p>如果你是个 Vim 爱好者，<code>vim-vebugger </code>也不错。</p>
 <p>对上面不满意？可以试试 gdb 自带的伪图形界面，只要启动gdb时加上 <code>-tui</code> 选项即可。</p>
 ]]></content>
+      <categories>
+        <category>utility</category>
+      </categories>
       <tags>
         <tag>gdb</tag>
       </tags>
