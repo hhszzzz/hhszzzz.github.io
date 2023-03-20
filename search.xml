@@ -701,9 +701,9 @@
   <entry>
     <title>gdb调试指南</title>
     <url>/post/2d8bc9c2.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><span id="more"></span>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在MIT开始lab时，教授演示过gdb的具体操作，但是没有系统的学习过，所以参考文章进行学习。</p>
+<span id="more"></span>
 
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在MIT开始lab时，教授演示过gdb的具体操作，但是没有系统的学习过，所以参考文章进行学习。</p>
 <h1 id="编译"><a href="#编译" class="headerlink" title="编译"></a>编译</h1><ul>
 <li><p>安装编译环境</p>
 <p>  在调试之前，需要先将文件进行编译，下面先介绍GNU编译器集合中的部分编译器，由于本人用的是Ubuntu22.04，所以可以使用下面指令来对GNU编译器进行安装。</p>
